@@ -1,6 +1,6 @@
 package com.newsAPI.ConsumerNewsAPI.controller;
 
-import com.newsAPI.ConsumerNewsAPI.Service.NewsService;
+import com.newsAPI.ConsumerNewsAPI.service.NewsService;
 import com.newsAPI.ConsumerNewsAPI.model.NewsModel;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

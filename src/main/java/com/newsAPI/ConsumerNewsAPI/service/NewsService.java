@@ -1,4 +1,4 @@
-package com.newsAPI.ConsumerNewsAPI.Service;
+package com.newsAPI.ConsumerNewsAPI.service;
 
 import com.newsAPI.ConsumerNewsAPI.model.NewsModel;
 import com.newsAPI.ConsumerNewsAPI.repository.NewsRepository;
